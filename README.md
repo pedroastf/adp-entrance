@@ -4,7 +4,7 @@ Create a client-side quiz app based on the provided requirements, data and views
 
 ## Instalation
 
-Run npm i to install all required packages and then npm start to run the test. 
+Run npm i to install all required packages and then npm start to run.
 
 ## Requirements
 
